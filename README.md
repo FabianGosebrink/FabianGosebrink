@@ -7,3 +7,4 @@
 - :newspaper: [Blog](https://offering.solutions/blog)
 - :man_office_worker: [Offering Solutions Software](https://offering.solutions/)
 - 📫 [Mail](mailto:fabian.gosebrink@offering.solutions)
+- Find me on [Pluralsight](https://app.pluralsight.com/library/courses/structuring-angular-applications-angular-libraries)
