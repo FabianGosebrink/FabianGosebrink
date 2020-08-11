@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    # Runs every hour
+    # workflow runs every hour
     - cron: '0 * * * *'
 
 jobs:
