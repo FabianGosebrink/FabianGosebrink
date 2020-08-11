@@ -3,9 +3,9 @@ on:
   push:
     branches:
        - main
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+  # schedule:
+  #   # Runs every hour
+  #   - cron: '0 * * * *'
 
 jobs:
   update-readme-with-blog:
