@@ -9,7 +9,7 @@
 - 📫 [Mail](mailto:fabian.gosebrink@offering.solutions)
 - Find me on [Pluralsight](https://app.pluralsight.com/library/courses/structuring-angular-applications-angular-libraries)
 
-## Blog posts
+## My 5 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
