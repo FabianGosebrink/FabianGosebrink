@@ -1,5 +1,7 @@
 # Hello there 👋
 
+ <img alt="Fabians Github stats" src="https://github-readme-stats.vercel.app/api?username=FabianGosebrink&count_private=true&show_icons=true&theme=dark&include_all_commits=true">
+
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40Fabian%20Gosebrink&style=social&url=https%3A%2F%2Ftwitter.com%2FFabianGosebrink)
 
 - 💕 Azure 👋 ASP.NET Core 👋 Angular
