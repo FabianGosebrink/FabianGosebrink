@@ -11,7 +11,7 @@
 - 📫 [Mail](mailto:fabian.gosebrink@offering.solutions)
 - Find me on [Pluralsight](https://app.pluralsight.com/library/courses/structuring-angular-applications-angular-libraries)
 
-<a href="https://www.buymeacoffee.com/FabianGosebrink" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 73px !important;" ></a>
+<a href="https://www.buymeacoffee.com/FabianGosebrink" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="20" ></a>
 
 ![Fabian's github activity graph](https://activity-graph.herokuapp.com/graph?username=FabianGosebrink&theme=nord)
 
