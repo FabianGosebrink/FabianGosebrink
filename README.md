@@ -13,15 +13,20 @@
 
 <a href="https://www.buymeacoffee.com/FabianGosebrink" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a>
 
-![Fabian's github activity graph](https://activity-graph.herokuapp.com/graph?username=FabianGosebrink&theme=nord)
+![Fabian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabianGosebrink&theme=nord)
 
 ## Maintainer of
 
-[Angular auth oidc client](https://github.com/damienbod/angular-auth-oidc-client)
+[Angular Auth OIDC Client](https://github.com/damienbod/angular-auth-oidc-client)
+
+<p align="center">
+  <a href="https://github.com/damienbod/angular-auth-oidc-client"><img src="https://raw.githubusercontent.com/damienbod/angular-auth-oidc-client/main/.github/angular-auth-logo.png" alt="" width="400" /></a>
+</p>
 
 ## My 5 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Creating Real Time Cross Platform Applications with Angular, ASP.NET Core and Signalr](https://offering.solutions/talks/creating-real-time-cross-platform-applications-with-angular-asp-net-core-and-signalr-71/)
 - [Loading configuration before your angular App Starts](https://offering.solutions/blog/articles/2021/11/11/loading-configuration-before-your-angular-app-starts/)
 - [Angular Testing with Jasmine, Karma and Cypress](https://offering.solutions/talks/angular-testing-with-jasmine-karma-and-cypress-70/)
