@@ -26,10 +26,9 @@
 ## My 5 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Creating Real Time Cross Platform Applications with Angular, ASP.NET Core and Signalr](https://offering.solutions/talks/creating-real-time-cross-platform-applications-with-angular-asp-net-core-and-signalr-71/)
-- [Loading configuration before your angular App Starts](https://offering.solutions/blog/articles/2021/11/11/loading-configuration-before-your-angular-app-starts/)
-- [Angular Testing with Jasmine, Karma and Cypress](https://offering.solutions/talks/angular-testing-with-jasmine-karma-and-cypress-70/)
-- [Angular Reactive Forms - Developing Forms and Validation with Angular](https://offering.solutions/talks/angular-reactive-forms-developing-forms-and-validation-with-angular-69/)
-- [Adding ESLint and Cypress to a New Angular Project](https://offering.solutions/blog/articles/2021/09/30/adding-eslint-and-cypress-to-a-new-angular-project/)
+- [Migrating Angular to NgRx functional APIs and effects](https://offering.solutions/blog/articles/2023/07/15/migrating-angular-to-ngrx-functional-apis-and-effects/)
+- [Announcing “Angular Monorepos with Nx” Course on Pluralsight](https://offering.solutions/blog/articles/2023/07/09/angular-monorepos-with-nx-course-on-pluralsight/)
+- [Automatically mock your Angular Services when Testing](https://offering.solutions/blog/articles/2023/04/02/automatically-mock-your-angular-services-when-testing/)
+- [Migrating to Angular Standalone Components](https://offering.solutions/blog/articles/2023/02/11/migrating-to-angular-standalone-components/)
+- [Getting Started With Angular Strictly Typed Reactive Forms](https://offering.solutions/blog/articles/2022/07/09/getting-started-with-angular-strictly-typed-reactive-forms/)
 <!-- BLOG-POST-LIST:END -->
