@@ -26,9 +26,9 @@
 ## My 5 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nx and Azure DevOps Integration for Test and Coverage Reporting](https://offering.solutions/blog/articles/2023/11/05/nx-and-azure-devops-integration-for-test-and-coverage-reporting/)
 - [Migrating Angular to NgRx functional APIs and effects](https://offering.solutions/blog/articles/2023/07/15/migrating-angular-to-ngrx-functional-apis-and-effects/)
 - [Announcing “Angular Monorepos with Nx” Course on Pluralsight](https://offering.solutions/blog/articles/2023/07/09/angular-monorepos-with-nx-course-on-pluralsight/)
 - [Automatically mock your Angular Services when Testing](https://offering.solutions/blog/articles/2023/04/02/automatically-mock-your-angular-services-when-testing/)
 - [Migrating to Angular Standalone Components](https://offering.solutions/blog/articles/2023/02/11/migrating-to-angular-standalone-components/)
-- [Getting Started With Angular Strictly Typed Reactive Forms](https://offering.solutions/blog/articles/2022/07/09/getting-started-with-angular-strictly-typed-reactive-forms/)
 <!-- BLOG-POST-LIST:END -->
