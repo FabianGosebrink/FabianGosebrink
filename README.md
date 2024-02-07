@@ -26,9 +26,9 @@
 ## My 5 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extending the NgRx signal store with a custom feature](https://offering.solutions/blog/articles/2024/02/07/extending-the-ngrx-signal-store-with-a-custom-feature/)
 - [NgRx Signal Store &amp; Angular: Getting started](https://offering.solutions/blog/articles/2023/12/03/ngrx-signal-store-getting-started/)
 - [Migrating an Angular Nx Workspace to V17](https://offering.solutions/blog/articles/2023/11/20/migrating-an-angular-nx-workspace-to-v17/)
 - [Nx and Azure DevOps Integration for Test and Coverage Reporting](https://offering.solutions/blog/articles/2023/11/05/nx-and-azure-devops-integration-for-test-and-coverage-reporting/)
 - [Migrating Angular to NgRx functional APIs and effects](https://offering.solutions/blog/articles/2023/07/15/migrating-angular-to-ngrx-functional-apis-and-effects/)
-- [Announcing “Angular Monorepos with Nx” Course on Pluralsight](https://offering.solutions/blog/articles/2023/07/09/angular-monorepos-with-nx-course-on-pluralsight/)
 <!-- BLOG-POST-LIST:END -->
