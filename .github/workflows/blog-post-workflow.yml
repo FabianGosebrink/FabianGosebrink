@@ -4,8 +4,8 @@ on:
     branches:
       - main
   schedule:
-    # workflow runs every hour
-    - cron: "0 * * * *"
+    # workflow runs every day
+    - cron: "0 0 * * *"
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
