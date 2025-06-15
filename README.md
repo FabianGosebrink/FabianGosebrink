@@ -26,9 +26,9 @@
 ## My 5 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular 2025: Remote Data, Signals, and the Questions You’re Asking](https://offering.solutions/blog/articles/2025/06/14/angular-2025-remote-data-signals-and-the-questions-youre-asking/)
 - [Comparing Angular State Management: NgRx Classic, Signal Store, and the Events Plugin](https://offering.solutions/blog/articles/2025/05/13/comparing-angular-state-management-ngrx-classic-signal-store-and-the-events-plugin/)
 - [Announcing Developer Academy Trainings](https://offering.solutions/blog/articles/2025/01/13/announcing-developer-academy/)
 - [How to Generate Unified Coverage Reports in an Nx Workspace](https://offering.solutions/blog/articles/2024/11/17/how-to-generate-unified-coverage-reports-in-an-nx-workspace/)
 - [Extending the NgRx signal store with a custom feature](https://offering.solutions/blog/articles/2024/02/07/extending-the-ngrx-signal-store-with-a-custom-feature/)
-- [NgRx Signal Store &amp; Angular: Getting started](https://offering.solutions/blog/articles/2023/12/03/ngrx-signal-store-getting-started/)
 <!-- BLOG-POST-LIST:END -->
