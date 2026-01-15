@@ -26,9 +26,9 @@
 ## My 5 latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Pluralsight Course – Angular Deep Dive: Modern State with Signals and Signal Store](https://offering.solutions/blog/articles/2026/01/01/angular-ngrx-signal-store-course/)
-- [Angular 2025: Remote Data, Signals, and the Questions You’re Asking](https://offering.solutions/blog/articles/2025/06/14/angular-2025-remote-data-signals-and-the-questions-youre-asking/)
-- [Comparing Angular State Management: NgRx Classic, Signal Store, and the Events Plugin](https://offering.solutions/blog/articles/2025/05/13/comparing-angular-state-management-ngrx-classic-signal-store-and-the-events-plugin/)
-- [Announcing Developer Academy Trainings](https://offering.solutions/blog/articles/2025/01/13/announcing-developer-academy/)
+- [New Pluralsight Course – Angular Deep Dive: Modern State with Signals and Signal Store](https://offering.solutions/blog/articles/2026/01/01/angular-signal-store-state-management/)
+- [Angular Signals vs RxJS – Answering the Questions Developers Ask](https://offering.solutions/blog/articles/2025/06/14/angular-signals-vs-rxjs/)
+- [Comparing Angular State Management: NgRx Classic, Signal Store, and the Events Plugin](https://offering.solutions/blog/articles/2025/05/13/ngular-state-management-comparison/)
+- [Web Development Training – The Developer Academy](https://offering.solutions/blog/articles/2025/01/13/announcing-developer-academy/)
 - [How to Generate Unified Coverage Reports in an Nx Workspace](https://offering.solutions/blog/articles/2024/11/17/how-to-generate-unified-coverage-reports-in-an-nx-workspace/)
 <!-- BLOG-POST-LIST:END -->
