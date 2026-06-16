@@ -51,7 +51,6 @@
 ## ✍️ My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [New Pluralsight Course – Angular Deep Dive: Modern State with Signals and Signal Store](https://offering.solutions/blog/articles/2026/01/01/angular-signal-store-state-management/)
 - [Angular Signals vs RxJS – Answering the Questions Developers Ask](https://offering.solutions/blog/articles/2025/06/14/angular-signals-vs-rxjs/)
 - [Comparing Angular State Management: NgRx Classic, Signal Store, and the Events Plugin](https://offering.solutions/blog/articles/2025/05/13/angular-state-management-comparison/)
